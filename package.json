@@ -1,0 +1,27 @@
+{
+  "name": "webpack-4projects",
+  "version": "1.0.0",
+  "description": "Webpack for all furure projects for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaSirina/Webpack4Tests.git"
+  },
+  "keywords": [
+    "js",
+    "webpack"
+  ],
+  "author": "AnnaS <sirina.anya@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaSirina/Webpack4Tests/issues"
+  },
+  "homepage": "https://github.com/AnnaSirina/Webpack4Tests#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
