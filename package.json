@@ -4,7 +4,8 @@
   "description": "Webpack for all furure projects for tests",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,8 @@
   },
   "homepage": "https://github.com/AnnaSirina/Webpack4Tests#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^3.2.0",
     "webpack": "^4.41.6",
     "webpack-cli": "^3.3.11"
   }
