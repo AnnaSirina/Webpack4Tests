@@ -7,23 +7,26 @@ Copy the directory.
 ### Installation
 
 ```
-npm install
-or
-yarn
+npm i
+
 ```
 
 ### Start dev server for development
 
 ```
 npm start
-or
-yarn start-yarn
+
+```
+### Dev
+
+```
+npm run dev
+
 ```
 
 ### Build
 
 ```
 npm run build
-or
-yarn build
+
 ```
